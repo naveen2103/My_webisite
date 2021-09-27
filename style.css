@@ -365,12 +365,6 @@ header .navbar ul li a:hover {
     .about .row .counter .box {
         width: 100%;
     }
-    .education .box-container .box {
-        width: 100%;
-    }
-    .portfolio .box-container .box {
-        width: 100%;
-    }
     .contact .row form {
         margin: 3rem 0;
     }
